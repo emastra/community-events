@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+// semantic-ui is imported inside index.html
 import './index.css';
 import App from './app/layout/App';
 import * as serviceWorker from './serviceWorker';
